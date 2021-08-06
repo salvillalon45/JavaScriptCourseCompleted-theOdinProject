@@ -93,5 +93,11 @@ This was not taught in class, but I went out of my way to practice other technol
     -   [Live Site](https://theodinproject-whereswaldo.web.app/)
 
 12. [The Odin Project: Javascript] - Final Project (Your Story)
+
     -   [Code](https://github.com/salvillalon45/your-story)
     -   [Live Site](https://your-story-sv.web.app/)
+
+13. [The Odin Project: Javascript] - Frameworks (Vue)
+    -   They do not have this lesson anymore, but the purpose was to redo a project we did in the past and do it again with a framework. I wanted to try Vue so I did the restaurant page in Vue
+    -   [Code](https://github.com/salvillalon45/theOdinProject-Frameworks)
+    -   [Live Site](https://salvillalon45.github.io/theOdinProject-Frameworks/)
