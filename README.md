@@ -35,6 +35,7 @@ This was not taught in class, but I went out of my way to practice other technol
 -   Dribble (For design inspiration)
 -   Gatsby Framework
 -   Redux
+-   Setting up projects with ESLint and Prettier
 
 ## The projects:
 
