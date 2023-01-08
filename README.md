@@ -1,4 +1,4 @@
-# List of Completed Projects in JavaScript Course
+<h1 align="center">List of Completed Projects in JavaScript Course</h1>
 
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
