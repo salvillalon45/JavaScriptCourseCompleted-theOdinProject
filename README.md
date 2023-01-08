@@ -1,6 +1,4 @@
-<h1 align="center">
-[The Odin Project: Javascript] - List of Completed Projects
-</h1>
+# List of Completed Projects in JavaScript Course
 
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
