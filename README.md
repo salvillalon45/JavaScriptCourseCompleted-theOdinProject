@@ -49,6 +49,7 @@ This was not taught in class, but I went out of my way to practice other technol
       - Used Object constructors to create new library instances and organize code
       - Built with Firebase for data storage
   
+---
 
 2.  [The Odin Project: Javascript] - Tic Tac Toe
     - About: 
@@ -58,7 +59,7 @@ This was not taught in class, but I went out of my way to practice other technol
     - Implementation:
       - Used HTML, CSS, JavaScript to complete project
       - Used JavaScript Factory functions to organize code
-
+---
 3.  [The Odin Project: Javascript] - Restaurant Page
     - About: 
       - Created a sample restaurant landing page for Sal's Kitchen
@@ -68,7 +69,7 @@ This was not taught in class, but I went out of my way to practice other technol
       - Used DOM manipulation to dynamically render the entire contents of the website
       - Built with JavaScript Factory functions to organize code. 
       - Practice using NPM and Webpack    
-
+---
 4.  [The Odin Project: Javascript] - Todo List
     - About: 
       - Created a To-Do list application. You can create projects. Each project can have tasks. You can add, edit, or delete tasks from a project as well
@@ -79,7 +80,7 @@ This was not taught in class, but I went out of my way to practice other technol
       - Built with JavaScript Factory functions to organize code. 
       - Practice using NPM and Webpack
       - Designed with LocalStorage to maintain storage of projects & tasks
-    
+---
 5.  [The Odin Project: Javascript] - Weather App
     - About: 
       - Created a Weather App! Enter the city name and it will show the humidity, wind, Fahrenheit, Celsius, and the condition of the sky currently happening in the city
@@ -88,7 +89,7 @@ This was not taught in class, but I went out of my way to practice other technol
     - Implementation:
       - Built using Vue.js. Used async/await to fetch data from the Open Weather Map API
       - Built with JavaScript factory functions to organize code
-
+---
 
 6.  [The Odin Project: Javascript] - Testing Practice with Jest
     - About: 
@@ -99,7 +100,7 @@ This was not taught in class, but I went out of my way to practice other technol
           - A caesarCipher function that takes a string and returns it with each character “shifted”. Read more about how a Caesar cipher works on this website.
           - An analyzeArray function that takes an array of numbers and returns an object with the following properties: average, min, max, and length.
       -   [Code](https://github.com/salvillalon45/theOdinProject-TestingPracticeJest)
-
+---
 7.  [The Odin Project: Javascript] - Battleship
     - About: 
       - Created a player versus computer Battleship game. Players can set five ships and change the rotation of the ship placement
@@ -110,7 +111,7 @@ This was not taught in class, but I went out of my way to practice other technol
       - Implemented project using React. Created reusable components and CSS selectors
       - Used useLayoutEffect to help render the application again when I am trying to make changes to the DOM
       - useRef when trying to use state values inside event listeners
-
+---
 8.  [The Odin Project: Javascript] - CV Application
     - About: 
       - Created a CV builder using React. Allows users to add education, skills, experience, and contact info. User can edit their previously submitted data
@@ -119,7 +120,7 @@ This was not taught in class, but I went out of my way to practice other technol
     - Implementation:
       - Used React, React Bootstrap, and Sass to complete the project. Used Surge.sh to deploy
       - Learned what Lexical Scope is and how it is used in react. We can use arrow functions to not lose access to calling functions
-
+---
 9.  [The Odin Project: Javascript] - Memory Card
     - About: 
       - Created a memory card game. See how far your memory takes you!
@@ -128,7 +129,7 @@ This was not taught in class, but I went out of my way to practice other technol
     - Implementation:
       - Practice using Gatsby for the first time! 
       - Used React Hooks and LifeCycle methods to organize and implement logic. Sass for styling
-
+---
 10. [The Odin Project: Javascript] - Shopping Cart
     - About: 
       - Created a full-scale shopping experience! Allows users to view items, select how many items, and place them in the shopping cart. The user finalizes their shopping experience by checkout 
@@ -137,7 +138,7 @@ This was not taught in class, but I went out of my way to practice other technol
     - Implementation:
       - Used Redux & Gatsby to create applications. 
       - Took advantage of Gatsby's dynamic routing & awesome page directory system to organize code and implement logic 
-      
+---  
 11. [The Odin Project: Javascript] - Where's Waldo
     - About: 
       - Created a fun Where’s Waldo game. See if you can find all three characters in the shortest time possible
@@ -146,7 +147,7 @@ This was not taught in class, but I went out of my way to practice other technol
     - Implementation:
       - Used Gatsby, Material UI, and Styled Components to create the project. 
       - Built with Firebase to store scores of all users who have played. Also, Firebase hosting to deploy and host
-
+---
 12. [The Odin Project: Javascript] - Final Project (Your Story)
     - About: 
       - I challenged myself to create something new, something that could help people. As I was thinking, I realized that something that I value and that has helped me a lot is the power of reflection. Reflecting allows people to stop and think about what they are doing. Helps clarify what are the next steps you want to create and take. I wanted to create a tool that people can use to reflect. This is how Your Story was born! 
@@ -155,7 +156,7 @@ This was not taught in class, but I went out of my way to practice other technol
     - Implementation:
       - Developed a full-stack application that lets users create, edit, delete, and print to PDF their newly created events timeline. Implement authentication using Firebase
       - Used Gatsby.js, Material UI, Styled Components, and Firebase (Real Time - DB, Auth, Hosting) to complete the project
-
+---
 13. [The Odin Project: Javascript] - Frameworks (Vue)
     -   They do not have this lesson anymore, but the purpose was to redo a project we did in the past and do it again with a framework. I wanted to try Vue so I did the restaurant page in Vue
     -   [Code](https://github.com/salvillalon45/theOdinProject-Frameworks)
